@@ -2,7 +2,7 @@ import React from 'react';
 import styled, { keyframes } from 'styled-components';
 
 const TracksContainer = styled.div`
-  background-color: #F8F8FF;
+  background-color: #f4f1fc;
   padding: 30px;
   font-family: sans-serif;
   display: flex;
